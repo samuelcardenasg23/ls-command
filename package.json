@@ -1,0 +1,32 @@
+{
+  "name": "ls-command",
+  "version": "1.0.0",
+  "description": "Replicating ls terminal command",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelcardenasg23/ls-command.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Samuel Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelcardenasg23/ls-command/issues"
+  },
+  "homepage": "https://github.com/samuelcardenasg23/ls-command#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
